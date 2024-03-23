@@ -7,7 +7,7 @@ function Project() {
       name:"Wanderlust Website",
       desc:"A LeetCode Clone website that have auth section to create users and reset password and most important it have real DSA problems which you can like real LeetCode",
       tech:["Html","css","JavaScript","Node js","MongoDb"],
-      ref:"/public/airbnb.png",
+      ref:"/dist/airbnb.png",
       live:"https://airbnb-lite.onrender.com/listing",
       src:"https://github.com/Piyush631/Airbnb_lite"
     },
@@ -15,7 +15,7 @@ function Project() {
       name:"Doctalk",
       desc:"Develop a website through which a user book a appointment from a doctors . User also get a various types of information regarding hospital etc.",
       tech:["Html","css","php","javacript"],
-      ref:"/public/doctor.png",
+      ref:"/dist/doctor.png",
     },
     {
       name:"Weather Prediction",
@@ -31,7 +31,7 @@ function Project() {
       desc:"Designed a captivating set of projects, including a Simon Game, Dice Throw, Todo app using Vanilla JavaScript to reinforce fundamental concepts.",
       
       tech:["javascript","Html","css","bootstrap"],
-      ref:"https://res-2.cloudinary.com/under-the-hood-learning/image/upload/q_auto/v1/blog_images/MVC-Vanilla-JS.png",
+      ref:"",
     },
     {
       name:"Visit Chamba",
