@@ -31,7 +31,7 @@ function Project() {
       desc:"Designed a captivating set of projects, including a Simon Game, Dice Throw, Todo app using Vanilla JavaScript to reinforce fundamental concepts.",
       
       tech:["javascript","Html","css","bootstrap"],
-      ref:"",
+      ref:"https://drive.google.com/file/d/1OQ_kCUI9WT_gm2fc1En_TvRA_oM207Zo/view?usp=drive_link",
     },
     {
       name:"Visit Chamba",
