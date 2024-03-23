@@ -28,7 +28,7 @@ function Skills() {
         </div>
         <div className='flex gap-5'>
         <img className='h-8 w-8'src="https://www.citypng.com/public/uploads/small/11662226392uom4gsi9ddb1c81ipfx2u4imargvwq7uskhdui1pj4f6xufjz0jkfzqzduhjuifts0dzcnykgszw6isfutq2nlwb51ef4gm0dt8d.png"></img> 
-          <p className='font-semibold text-xl'>javascript</p>
+          <p className='font-semibold text-xl'>Javascript</p>
         </div>
         <div className='flex gap-5'>
         <img className='h-8 w-8 rounded-full'src="https://w7.pngwing.com/pngs/79/15/png-transparent-java-servlet-computer-icons-programming-language-java-miscellaneous-logo-computer-programming-thumbnail.png"></img> 
