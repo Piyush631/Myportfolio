@@ -18,7 +18,7 @@ function Intro() {
       })}
       </div>
      <div className='mt-16'>
-      <img src="image.JPG"  className='h-[30vh] w-[30vh] rounded-full' alt="" />
+      <img src="image.JPG"  className='h-[35vh] w-[35vh] rounded-md' alt="" />
      </div>
      
       

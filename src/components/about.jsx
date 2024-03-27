@@ -15,15 +15,15 @@ function About() {
   };
   return (
    
-         <div id="about" className='  bg-[#CDEA68]  w-full h-screen rounded-tl-3xl rounded-tr-3xl flex flex-col gap-12 '>
-    <div className='flex  px-24 gap-24 mt-16 '> 
+         <div id="about" className='  bg-[#CDEA68]  w-full h-screen rounded-tl-3xl rounded-tr-3xl flex flex-col gap-12  '>
+    <div className='  px-4 gap-2 mt-16 sm:flex sm:px-24 sm:gap-24'> 
     <div>
-    <p className='text-2xl font-bold py-4'>Aboutme</p>
+    <p className='text-xl font-bold py-4  sm:text-2xl '>Aboutme</p>
     </div>
    
     
     <div>
-      <p className=' w-full text-xl pl-12 flex flex-wrap max-[600px]:text-[20px]'>Hello, My name is Piyush  i pass my  B.tech in Computer Science Engineering from Himachal Insitute of Engineering and Technology Shahpur, My skills includes a decent foundation in java and javascript, from development perpective, i have done many project in React and Node (basically MERN ) for  Web and as these are nothing but just Javascript, So, I am well Good in JavaScript Ecosystem. For computer science fundamentals, I have a decent knowledge about Data Structure & Algorithm, Operating system, Database management system and Object Oriented Technique. I have also practiced coding by solving over 150+ problems on various coding platforms like Leetcode, GFG and Hackerrank</p>
+      <p className=' w-full text-md pl-2 sm:text-xl sm:pl-12 flex flex-wrap '>Hello, My name is Piyush  i pass my  B.tech in Computer Science Engineering from Himachal Insitute of Engineering and Technology Shahpur, My skills includes a decent foundation in java and javascript, from development perpective, i have done many project in React and Node (basically MERN ) for  Web and as these are nothing but just Javascript, So, I am well Good in JavaScript Ecosystem. For computer science fundamentals, I have a decent knowledge about Data Structure & Algorithm, Operating system, Database management system and Object Oriented Technique. I have also practiced coding by solving over 150+ problems on various coding platforms like Leetcode, GFG and Hackerrank</p>
     </div>
 
     </div>

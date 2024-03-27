@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-const pdffile="http://localhost:5173/piyushresume.pdf";
+const pdffile="piyushresume.pdf";
 function Resume() {
     const [rotate,setRotate]=useState(0);
     useEffect(()=>{
