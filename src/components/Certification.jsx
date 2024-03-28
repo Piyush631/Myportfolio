@@ -13,13 +13,13 @@ function Certification() {
   </div>
   <div className='mt-12 ml-6 flex flex-col gap-12 justify-evenly sm:flex-row'> 
   <div className='h-[30vh] w-[43vh]'>
-<img src="/public/java.png" alt="" />
+<img src="java.png" alt="" />
 </div>
 <div className=' h-[30vh] w-[43vh]'>
-<img src="/public/web.png" alt="" />
+<img src="web.png" alt="" />
 </div>
 <div className=' h-[30vh] w-[43vh]'>
-<img src="/public/react.png" alt="" />
+<img src="react.png" alt="" />
 </div>
 
   </div>
