@@ -7,7 +7,7 @@ function Project() {
       name:"Wanderlust Website",
       desc:"A LeetCode Clone website that have auth section to create users and reset password and most important it have real DSA problems which you can like real LeetCode",
       tech:["Html","css","JavaScript","Node js","MongoDb"],
-      ref:"airbnb.png",
+      ref:"air.png",
       live:"https://airbnb-lite.onrender.com/listing",
       src:"https://github.com/Piyush631/Airbnb_lite"
     },
@@ -31,7 +31,7 @@ function Project() {
       desc:"Designed a captivating set of projects, including a Simon Game, Dice Throw, Todo app using Vanilla JavaScript to reinforce fundamental concepts.",
       
       tech:["javascript","Html","css","bootstrap"],
-      ref:"https://drive.google.com/file/d/https://res-2.cloudinary.com/under-the-hood-learning/image/upload/q_auto/v1/blog_images/MVC-Vanilla-JS.png/view?usp=drive_link",
+      ref:"vanila.png",
     },
     {
       name:"Visit Chamba",
@@ -44,7 +44,7 @@ function Project() {
   return (
     <div id="project">
     <div className=' pl-12 '>
-      <h1 className='text-[85px]'>My Projects</h1>
+      <h1 className='sm:text-[85px] text-[30px]'>My Projects</h1>
     </div>
     <div className='border-b-2 border-gray-300 mt-8' >
 

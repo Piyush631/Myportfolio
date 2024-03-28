@@ -3,8 +3,8 @@ import React from 'react'
 function Cards({data}) {
   return (
     <div>
-        <div className='w-[50vh] h-[65vh] border-2 border-gray-600 rounded-lg overflow-hidden '>
-    <div>
+        <div className='w-auto sm:w-[50vh]  h-auto border-2 border-gray-600 rounded-lg overflow-hidden '>
+    <div> 
       <img className='h-1/2' src={data.ref} alt="" />
     </div>
     <div className='mt-2 ml-2'>

@@ -3,16 +3,16 @@ import React from 'react'
 function Skills() {
   return (
     <div>
-         <div className='w-full h-[70vh] mt-4 bg-[#CDEA68]  '>
-  <div className='flex gap-16 w-full p-16   '>
+         <div className='w-full  mt-4 bg-[#CDEA68]  '>
+  <div className='flex flex-col text-center items-center gap-4 flex-wrap  '>
 
  
-      <div className='intro text-6xl font-semibold pt-12'>
+      <div className='intro text-6xl font-semibold pt-12 mb-3'>
         <h1>My Skills</h1>
 
       </div>
       <div className='cards flex gap-5 flex-wrap'>
-        <div className='h-[50vh] w-[45vh]  bg-white rounded-xl'> 
+        <div className='h-[50vh] w-[45vh]  bg-white rounded-xl mb-4'> 
         <div className='mt-3 text-2xl ml-4 font-semibold'>
           <h1>Languages</h1>
         </div>
