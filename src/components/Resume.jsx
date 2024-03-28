@@ -26,7 +26,7 @@ function Resume() {
       };
   return (
     <div data-scroll data-scroll-section  data-scroll-speed=".1"  id="Resume">
-         <div className='relative bg-[#CDEA68] h-[110vh] w-full'>
+         <div className='relative bg-[#CDEA68] h-[110vh] w-full flex flex-col'>
       <div className=' text-center pt-20 leading-none text-[169px] font-bold uppercase'>
         <h1 className=''>Want</h1>
         <h1>To Hire</h1>
@@ -64,7 +64,7 @@ function Resume() {
               
 
         </div>
-     <div className='ml-64 mt-6'>
+     <div className='sm:ml-64'>
      <button className=' bg-black text-white w-32 rounded-xl h-8' onClick={()=>{downloadfileAtUrl(pdffile)}}> DownloadResume</button>
 
      </div>
