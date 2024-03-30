@@ -23,7 +23,7 @@ function About() {
    
     
     <div>
-      <p className=' h-[45vh] w-[150vh] text-xl'>Hello, My name is Piyush  i pass my  B.tech in Computer Science Engineering from Himachal Insitute of Engineering and Technology Shahpur, My skills includes a decent foundation in java and javascript, from development perpective, i have done many project in React and Node (basically MERN ) for  Web and as these are nothing but just Javascript, So, I am well Good in JavaScript Ecosystem. For computer science fundamentals, I have a decent knowledge about Data Structure & Algorithm, Operating system, Database management system and Object Oriented Technique. I have also practiced coding by solving over 150+ problems on various coding platforms like Leetcode, GFG and Hackerrank</p>
+      <p className=' h-[60vh] w-[40vh] text-sm sm:h-[45vh] sm:w-[150vh] sm:text-xl'>Hello, My name is Piyush  i pass my  B.tech in Computer Science Engineering from Himachal Insitute of Engineering and Technology Shahpur, My skills includes a decent foundation in java and javascript, from development perpective, i have done many project in React and Node (basically MERN ) for  Web and as these are nothing but just Javascript, So, I am well Good in JavaScript Ecosystem. For computer science fundamentals, I have a decent knowledge about Data Structure & Algorithm, Operating system, Database management system and Object Oriented Technique. I have also practiced coding by solving over 150+ problems on various coding platforms like Leetcode, GFG and Hackerrank</p>
     </div>
 
     </div>

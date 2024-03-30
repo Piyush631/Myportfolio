@@ -14,7 +14,7 @@ function Navbar() {
           <div>
             <p>piyush</p>
           </div>
-          <div className=' links flex gap-6 '>
+          <div className=' sm:block links flex gap-6  hidden'>
           <ul className='flex gap-5 mr-12 text-xl font-semibold'>
             <li><Link to="#app">Home</Link></li>
             <li><Link  to="#about">About</Link></li>
