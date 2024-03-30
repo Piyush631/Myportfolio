@@ -3,7 +3,7 @@ import React from 'react'
 function Skills() {
   return (
     <div>
-         <div className='w-full  mt-4 bg-[#CDEA68]  '>
+         <div className='w-screen  mt-4 bg-[#CDEA68]  '>
   <div className='flex flex-col text-center items-center gap-4 flex-wrap  '>
 
  
@@ -12,15 +12,15 @@ function Skills() {
 
       </div>
       <div className='cards flex gap-5 flex-wrap'>
-        <div className='h-[50vh] w-[45vh]  bg-white rounded-xl mb-4'> 
-        <div className='mt-3 text-2xl ml-4 font-semibold'>
+        <div className='sm:h-[50vh] sm:w-[45vh] h-[35vh] w-[30vh] bg-white rounded-xl mb-4'> 
+        <div className='mt-3 sm:text-2xl ml-4 sm:font-semibold text-xl'>
           <h1>Languages</h1>
         </div>
         <div className='mt-4 ml-4 flex flex-col gap-3'>
         
         <div className='flex gap-5'>
         <img className='h-8 w-8'src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png "></img> 
-          <p className='font-semibold text-xl'>HTML5</p>
+          <p className='font-semibold sm:text-xl text-lg'>HTML5</p>
         </div>
         <div className='flex gap-5'>
         <img className='h-8 w-8'src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></img> 

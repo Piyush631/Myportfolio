@@ -43,7 +43,7 @@ function Project() {
   ]
   return (
     <div id="project">
-    <div className=' pl-12 '>
+    <div className=' sm:pl-12 pl-2'>
       <h1 className='sm:text-[85px] text-[30px]'>My Projects</h1>
     </div>
     <div className='border-b-2 border-gray-300 mt-8' >

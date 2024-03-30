@@ -26,8 +26,8 @@ function Resume() {
       };
   return (
     <div data-scroll data-scroll-section  data-scroll-speed=".1"  id="Resume">
-         <div className='relative bg-[#CDEA68] h-[110vh] w-full flex flex-col'>
-      <div className=' text-center pt-20 leading-none text-[169px] font-bold uppercase'>
+         <div className='relative bg-[#CDEA68] sm:h-[110vh] h-[60vh] w-screen flex flex-col'>
+      <div className=' text-center pt-20 leading-none sm:text-[169px] text-[100px] font-bold uppercase'>
         <h1 className=''>Want</h1>
         <h1>To Hire</h1>
         <h1>Me</h1>
@@ -36,7 +36,7 @@ function Resume() {
       <div className='flex gap-6'> 
 
      
-      <div className=' relative  bottom-[415px]  left-[495px] flex gap-8'>
+      <div className='  sm:block hidden relative  bottom-[415px]  left-[495px] flex gap-8'>
             <div className= ' relative h-[11vw] w-[11vw] bg-zinc-100 rounded-full'>
             <div className=' absolute h-2/3 w-2/3 bg-zinc-900 rounded-full top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] '>
            <div style={{transform:`translate(-50%,-50%) rotate(${rotate}deg)`}} className='  absolute line w-full h-8  top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]'>
@@ -50,7 +50,7 @@ function Resume() {
               
 
         </div>
-        <div className=' relative  bottom-[415px]  left-[495px] flex gap-8'>
+        <div className=' sm:block hidden relative  bottom-[415px]  left-[495px] flex gap-8'>
             <div className= ' relative h-[11vw] w-[11vw] bg-zinc-100 rounded-full'>
             <div className=' absolute h-2/3 w-2/3 bg-zinc-900 rounded-full top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] '>
            <div style={{transform:`translate(-50%,-50%) rotate(${rotate}deg)`}} className='  absolute line w-full h-8  top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]'>

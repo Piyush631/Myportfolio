@@ -15,7 +15,7 @@ function Play() {
     })
   return (
     <div>
-        <div className=' eyes w-full h-screen overflow-hidden bg-[#EFEFEF]'>
+        <div className=' hidden sm:block eyes w-full h-screen overflow-hidden bg-[#EFEFEF]'>
     <div data-scroll  data-scroll-speed="-.7" className=" relative h-full w-full bg-cover  bg-center bg-[url('https://ochi.design/wp-content/uploads/2022/05/Top-Viewbbcbv-1-1440x921.jpg')]">
         <div className=' absolute   top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]  flex gap-8'>
             <div className= ' relative h-[15vw] w-[15vw] bg-zinc-100 rounded-full'>
