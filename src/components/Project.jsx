@@ -5,11 +5,19 @@ function Project() {
   const data=[
     {
       name:"Wanderlust Website",
-      desc:"A LeetCode Clone website that have auth section to create users and reset password and most important it have real DSA problems which you can like real LeetCode",
+      desc:"a wanderlust website where user get information about hotels.Implement CRUD operations for users and adding a hotels.Using a javascript for frontend. Employ Node.js with Express and MongoDB for the backend.",
       tech:["Html","css","JavaScript","Node js","MongoDb"],
       ref:"air.png",
       live:"https://airbnb-lite.onrender.com/listing",
       src:"https://github.com/Piyush631/Airbnb_lite"
+    },
+    {
+      name:"power fitness",
+      desc:"Dynamic Gold Gym website using React.js and Rapid API, offering users comprehensive exercise information and YouTube demonstration videos.By integrating Rapid API, users access up-to-date exercise details, including descriptions and muscle targeting ",
+      tech:["React","Tailwindcss","RapidApi"],
+      ref:"gym.png",
+      live:"https://power-fitness-center.netlify.app/",
+      src:"https://github.com/Piyush631/powergym"
     },
     {
       name:"Doctalk",
